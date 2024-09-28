@@ -1,0 +1,266 @@
+.bienvenue{background-image: url("https://media.gqmagazine.fr/photos/5c35b3b5005fc99c29f44d24/16:9/w_1920,c_limit/unspecified-3.jpg");
+    width: 100%;
+    height:90vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 50px;
+   
+
+
+
+}
+
+
+
+.meuf{
+
+    color:black;
+    font-size: 10px;
+    position: absolute;
+    right:1300px;
+    top: 900px;
+}
+
+
+
+
+
+
+
+
+
+.dada{
+    text-align: center;
+    font-size: 70px;
+    position: absolute;
+    left: 25%;
+    top: 250px;
+    font-family:'pacifico';
+    color: white;
+   text-shadow:  0.2em 0.2em 0.4em black;
+    
+
+}
+.mp{ text-align: center;
+    font-size: 30px;
+    position: absolute;
+    left: 40%;
+    top: 400px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+text-shadow:  0.30em 0.30em 0.30em black;
+}
+.recherche{
+
+position: relative;
+top: -870px;
+right: 150px;
+font-size: 40px;
+border-radius: 45px;
+background-color: black;
+width: 500px;
+padding: 5px;
+}
+
+
+.fou{
+    position: relative;
+    right: -90px;
+    color: white;
+text-decoration: none;
+
+
+
+}
+
+
+.anzize{
+   color: black;
+    left: 1300px;
+    top: -50px;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+
+}
+
+h1{
+    position: relative;
+    top: -170px
+}
+   
+   
+    .molo{
+        text-align: center;
+        font-size: 20px;
+        display: block;
+        position: relative;
+        top:120px
+    }
+
+
+    .ville{
+        background-repeat: no-repeat;
+    background-size:cover;
+  
+    width: 85%;
+    height: 300px;;
+    border:10px solid white;
+    
+    border-radius: 35px;
+    font-size: 40px;
+    color:blanchedalmond;
+    text-shadow: 0 0 30px black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'pacifico';
+    box-shadow: 0 0 100px rgba(0,0,0,0.2); 
+    position: relative;
+    top: 90px;
+    }
+
+    #smoking{
+        background-image: url("https://www.oh-gaby.com/wp-content/uploads/2021/05/comment-choisir-smoking-homme.jpg");background-size:cover;
+        background-repeat: no-repeat;
+        height: 70vh;
+        padding-top: 100px;
+        display:flex;
+        margin-top:0;
+    }
+
+#pantalon{
+    background-image: url("https://lechemiseur.fr/data/lechemiseur/pantalon/multi-2.jpg");
+    background-size:cover;
+   background-repeat: no-repeat;
+   height: 70vh;
+   padding-top: 100px;
+   display:flex;
+   margin-top:0;
+
+}
+
+#veste{background-image: url("https://assets.laboutiqueofficielle.com/w_1100,q_auto,f_auto/media/products/2020/04/23/celio_219595_RUDENIM2_BRUT_20201112T082801_01.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 500px;
+    padding-top: 100px;
+    display:flex;
+    margin-top:0;
+ }
+
+ #bijoux{
+    background-image: url("https://www.modalova.fr/zine/wp-content/uploads/2023/01/bracelets-pour-homme-en-or-2023.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 100px;
+    display:flex;
+    margin-top:0;
+ }
+
+
+
+ #flexbox-ville{
+    display:grid;
+ grid-template-columns:repeat(3,1fr) ;
+
+ gap: 30px;
+ 
+ position: relative;
+ top: 10px;
+ width: 100%;
+
+
+ }
+
+ #chaus{background-image: url("https://www.lamodeetsesaccessoires.com/wp-content/uploads/2017/10/moccassins-couleur-homme.jpeg");background-size:cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 100px;
+    display:flex;
+    margin-top:0;
+
+ }
+ #sac{background-image: url("https://sac-bandouliere.fr/wp-content/uploads/2017/11/sac-a-main-bandouliere-homme-bleu-Bopaibag-design-modele.jpg");
+    background-repeat: no-repeat;
+    height: 70vh;
+    padding-top: 100px;
+    display:flex;
+    margin-top:0;    
+width: 500px;
+
+
+ }
+
+ #aide{background-image: url("https://fssfalcon.org/wp-content/uploads/2022/06/VirgilAblohFinal1.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 100px;
+    display:flex;
+    margin-top:0;
+    width: 320%;
+
+ }
+
+
+
+
+ 
+
+ .mola{
+    background-image: url("https://image.freepik.com/free-photo/beige-textured-background_53876-90082.jpg");
+    width: 350%;
+    height:10vh ;
+    background-repeat: repeat;
+    position: relative;
+    top: 960px;
+left: -250%;
+text-align: center;
+font-size: 25px;
+padding: 5px; ;
+    
+ }
+ .footer
+{
+    font-size: 15px;
+    top: -20px;
+   
+}
+
+    .lolo{
+        background-image: url("https://www.chantiersducardinal.fr/wp-content/uploads/2017/11/icone_reseaux-sociaux.jpg");
+        background-size: 150px;
+        padding-top: -90px;
+        padding: 20px;
+        width: 50%;
+        position: relative;
+      left: 310px;
+        top: 920px;
+        background-repeat: no-repeat;
+    }
+
+
+.anzize{
+   
+    left: 1300px;
+    top: 70px;
+    font-size: 20px;
+
+}
+
+.popo{
+position: relative;
+top:-700px;
+right: -600px;
+width: 100%;
+
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+  background-color: black;
+  border-radius: 45px;
+  
+}
